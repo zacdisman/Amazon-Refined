@@ -7,11 +7,11 @@
 This project is a "Refined Clone" of Amazon. While it maintains the core functionality (product search, cart logic, user accounts) and color identity of the original, it reimagines the user interface with a focus on:
 * **Visual Clarity:** Reducing text density for a cleaner shopping experience.
 * **Modern UX:** Leveraging modern web standards for smoother interactions.
-* **Performance:** Built on Next.js 14 for lightning-fast page loads.
+* **Performance:** Built on Next.js 16 for lightning-fast page loads.
 
 ## 🛠️ Tech Stack
 
-* **Framework:** Next.js 14 (App Router)
+* **Framework:** Next.js 16 (App Router)
 * **Language:** TypeScript
 * **Styling:** Tailwind CSS
 * **Database:** PostgreSQL (Supabase)
@@ -30,7 +30,7 @@ This project is a "Refined Clone" of Amazon. While it maintains the core functio
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/zacdisman/Amazon-Refined.git](hhttps://github.com/zacdisman/Amazon-Refined.git)
+    git clone https://github.com/zacdisman/Amazon-Refined.git
     ```
 2.  **Install dependencies**
     ```bash
